@@ -1,8 +1,16 @@
-My name is Sheriff, I am a technical writer who specializes in creating software documentation. 
+![Untitled design](https://user-images.githubusercontent.com/59125401/89685019-6caab200-d8f3-11ea-96a2-897c0411ff06.png)
 
-- 👯 I’m looking to collaborate on any open source project with any type of documentation needs.
-- 🏋🏿‍I have experience in creating api reference docs, quickstart guides and software tutorials. 
+Hey there 👋🏿 👋🏿
+
+
+My name is Sheriff, I am looking to collaborate on any project with any kind of documentation needs.
+
+- 🏋🏿‍I have experience in creating API docs and software tutorials. 
+
 - 🔭 I’m currently learning how to setup and use different static site and API doc generating tools.
+
+- 📫 How to reach me: 
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quadrisheriff&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
