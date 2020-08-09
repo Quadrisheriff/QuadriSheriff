@@ -12,7 +12,7 @@ My name is Sheriff, I am looking to collaborate on any project with any kind of 
 
 - 🔭 I’m currently learning how to setup and use different static site and API doc generating tools.
 
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>]()
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto: quadrisheriff)@gmail.com)
 
 
 **GitHub Stats**
