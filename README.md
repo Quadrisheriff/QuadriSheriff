@@ -20,6 +20,8 @@ My name is Sheriff, I am looking to collaborate on any project with any kind of 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Quadrisheriff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadrisheriff)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href='https://www.freepik.com/vectors/people'>People vector created by pch.vector - www.freepik.com</a>
+
 <!--
 **Quadrisheriff/QuadriSheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
