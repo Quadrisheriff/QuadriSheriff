@@ -11,9 +11,9 @@ Hey there 👋🏿 👋🏿
 My name is Sheriff, I am looking to collaborate on any project with any kind of documentation needs.
 
 
-- 🏋🏿‍I have experience in creating API docs and software tutorials. 
+- 🏋🏿‍I have experience creating API docs, and software tutorials. 
 
-- 🔭 I’m currently learning how to setup and use different static site and API doc generating tools.
+- 🔭 I’m currently learning how to setup and use static site and API doc generating tools.
 
 - 📫 How to reach me: <a href="mailto:quadrisheriff0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
