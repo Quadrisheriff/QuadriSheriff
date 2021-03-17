@@ -5,18 +5,6 @@
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/stoplight-%2314354C.svg?&style=for-the-badge&logo=stoplight&logoColor=white"/> <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/slate-%2314354C.svg?&style=for-the-badge&logo=slate&logoColor=white"/> <img src="https://img.shields.io/badge/docusaurus-%2314354C.svg?&style=for-the-badge&logo=docusaurus&logoColor=white"/> <img src="https://img.shields.io/badge/docz-%2314354C.svg?&style=for-the-badge&logo=docz&logoColor=white"/> <img src="https://img.shields.io/badge/mkdocs-%2314354C.svg?&style=for-the-badge&logo=mkdocs&logoColor=white"/> <img src="https://img.shields.io/badge/jekyll-%23CC0000.svg?&style=for-the-badge&logo=jekyll&logoColor=white"/> <img src="https://img.shields.io/badge/hugo-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white"/>
 
-Hey there 👋🏿 👋🏿
-
-
-My name is Sheriff, I am looking to collaborate on any project with any kind of documentation needs.
-
-
-- 🏋🏿‍I have experience creating API docs, and software tutorials. 
-
-- 🔭 I’m currently learning how to setup and use static site and API doc generating tools.
-
-- 📫 How to reach me: <a href="mailto:quadrisheriff0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 
 **GitHub Stats**
 
